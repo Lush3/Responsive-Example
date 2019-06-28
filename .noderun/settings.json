@@ -1,0 +1,33 @@
+{
+  "open files": [
+    {
+      "name": "README.md"
+    },
+    {
+      "name": "start.js"
+    },
+    {
+      "name": "puiuplexit.js"
+    },
+    {
+      "name": "getMechanicList.js"
+    },
+    {
+      "name": "main.json",
+      "rdf": true
+    }
+  ],
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ],
+  "active tab": 0,
+  "active widgets panel tab": 2,
+  "app start": "start.js",
+  "routes": {
+    "getMechanicList.js": {
+      "method": "all",
+      "route": "getMechanicList"
+    }
+  }
+}
